@@ -1,0 +1,3 @@
+Car:Toyota:Red:2022
+Bike:Yamaha:Blue:2021
+Van:Nissan:White:2020
